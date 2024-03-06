@@ -1,0 +1,8 @@
+a.out
+push_swap
+push_swap_debug
+*.o
+checker_*
+sam/
+push_swap_visualizer/
+checker
